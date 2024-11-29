@@ -119,13 +119,13 @@ We welcome contributions to improve this project! To contribute:
 2. Create a new branch for your feature or bug fix.
 3. Submit a pull request with a detailed description.
 
-Please ensure your contributions comply with our [License](#-license).
+Please ensure your contributions comply with our [License](https://github.com/Purohit1999/User-Login-Info/blob/main/LICENSE).
 
 ---
 
 ## 📄 **License**
 
-This project is licensed under the [MIT License](LICENSE).  
+This project is licensed under the [MIT License](https://github.com/Purohit1999/User-Login-Info/blob/main/LICENSE).  
 Feel free to use, modify, and distribute this project within the bounds of the license.
 
 ---
